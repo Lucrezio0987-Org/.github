@@ -1,0 +1,16 @@
+<svg width="560" height="275" viewBox="0 0 560 275" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="560" y2="275"><stop stop-color="#161426"/><stop offset="1" stop-color="#0B101A"/></linearGradient>
+  <linearGradient id="a" x1="360" y1="20" x2="540" y2="220"><stop stop-color="#FFB15C"/><stop offset=".5" stop-color="#FF6B9C"/><stop offset="1" stop-color="#8E6CFF"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="558" height="273" rx="28" fill="url(#bg)" stroke="#343052" stroke-width="2"/>
+<rect x="34" y="34" width="86" height="86" rx="24" fill="#241F35" stroke="#51446B"/>
+<text x="77" y="88" text-anchor="middle" fill="#D9B1FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="800">CC</text>
+<text x="142" y="65" fill="#F4F7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="800">CableCheck</text>
+<rect x="142" y="80" width="138" height="28" rx="14" fill="#2A1E39" stroke="#62457B"/>
+<text x="211" y="99" text-anchor="middle" fill="#D6ACFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">IN DEVELOPMENT</text>
+<text x="34" y="163" fill="#D5CDE4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Test cables, charging sessions and battery</text>
+<text x="34" y="189" fill="#D5CDE4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">behaviour with useful real-world comparisons.</text>
+<text x="34" y="235" fill="#978AA8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">ANDROID  /  CHARGING  /  BATTERY INSIGHTS</text>
+<path d="M436 35C486 56 518 100 531 158" stroke="url(#a)" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="60" y1="20" x2="1140" y2="330" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0A0F1D"/>
+    <stop offset=".52" stop-color="#11182B"/>
+    <stop offset="1" stop-color="#090C15"/>
+  </linearGradient>
+  <linearGradient id="line" x1="100" y1="0" x2="1050" y2="300" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#43E7FF"/>
+    <stop offset=".5" stop-color="#7B6CFF"/>
+    <stop offset="1" stop-color="#D46CFF"/>
+  </linearGradient>
+  <radialGradient id="g1" cx="0" cy="0" r="1" gradientTransform="translate(1040 55) rotate(142) scale(360 260)">
+    <stop stop-color="#735DFF" stop-opacity=".34"/>
+    <stop offset="1" stop-color="#735DFF" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1200" height="340" rx="32" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="32" fill="url(#g1)"/>
+<g opacity=".14" stroke="#91A3C5">
+  <path d="M50 62H1150M50 110H1150M50 158H1150M50 206H1150M50 254H1150M50 302H1150"/>
+  <path d="M110 30V310M210 30V310M310 30V310M410 30V310M510 30V310M610 30V310M710 30V310M810 30V310M910 30V310M1010 30V310M1110 30V310"/>
+</g>
+<rect x="72" y="48" width="210" height="34" rx="17" fill="#131E33" stroke="#2B3E60"/>
+<circle cx="95" cy="65" r="5" fill="#49E9FF"/>
+<text x="112" y="70" fill="#B7C9E6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">INDEPENDENT SOFTWARE</text>
+<text x="72" y="148" fill="#F5F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="800" letter-spacing="-1.5">Apps, tools &amp; experiments.</text>
+<rect x="73" y="168" width="680" height="4" rx="2" fill="url(#line)"/>
+<text x="72" y="217" fill="#CAD5E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">Practical software built around real everyday problems.</text>
+<text x="72" y="257" fill="#8493AD" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">ANDROID  •  UTILITIES  •  PRODUCTIVITY  •  AUTOMATION</text>
+<text x="72" y="298" fill="#65748E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">by Lucrezio Del Ponte</text>
+<g opacity=".9">
+  <path d="M930 60C985 82 1020 118 1040 175C1058 228 1093 263 1148 287" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M896 85C945 105 974 139 990 187C1005 232 1032 263 1078 290" stroke="url(#line)" stroke-opacity=".45" stroke-width="2"/>
+  <circle cx="1038" cy="174" r="6" fill="#49E9FF"/>
+  <circle cx="1081" cy="221" r="4" fill="#8B73FF"/>
+  <circle cx="1116" cy="264" r="3" fill="#D46CFF"/>
+</g>
+</svg>

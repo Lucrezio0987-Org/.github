@@ -28,7 +28,7 @@
 
 Keep your PC active, awake and ready from your Android phone using Bluetooth, schedules and direct controls.
 
-**Status** · Public release  
+**Status** · Google Play rollout  
 **Platforms** · Android + PC workflow
 
 <br/>
@@ -44,9 +44,9 @@ Keep your PC active, awake and ready from your Android phone using Bluetooth, sc
 
 ### CableCheck
 
-Understand real charging performance across cables, sessions and devices with practical battery and charging insights.
+Understand real charging performance across cables, sessions and devices through practical battery and charging insights.
 
-**Status** · In active development  
+**Status** · Active development  
 **Platform** · Android
 
 <br/>
@@ -57,13 +57,11 @@ Understand real charging performance across cables, sessions and devices with pr
 </tr>
 </table>
 
-> CableCheck is using a temporary organization card until its final app icon is ready.
-
 <br/>
 
 ## ◇ What lives here
 
-This organization is the **technical home for the products I build**.
+This organization is the **technical home of the products I build**.
 
 ```text
 products/        apps and software projects
@@ -72,7 +70,7 @@ docs/            product and developer documentation
 experiments/     ideas that may become future products
 ```
 
-Public repositories will appear here when exposing the source, documentation or issue tracker adds real value to a product.
+Public repositories appear here when exposing source code, documentation or an issue tracker adds real value to a product.
 
 <br/>
 
@@ -81,9 +79,9 @@ Public repositories will appear here when exposing the source, documentation or 
 | Channel | Purpose |
 |---|---|
 | **Google Play** | Android downloads and production releases |
-| **GitHub Releases** | Versioned binaries and technical changelogs where applicable |
-| **GitHub Discussions** | Organization-wide announcements and product updates when enabled |
-| **Product Hunt** | Public launches |
+| **GitHub Releases** | Versioned software releases and technical changelogs where applicable |
+| **GitHub Discussions** | Cross-project announcements and product updates when enabled |
+| **Product Hunt** | Public product launches |
 | **Instagram** | Visual previews, short demos and release highlights |
 
 <br/>
